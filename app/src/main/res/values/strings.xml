@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="books">Books</string>
+    <string name="loading_">Loading...</string>
+    <string name="unexpected_failure_load_list">Unexpected failure to load list</string>
+    <string name="unexpected_failure_load_book">Unexpected failure to load book</string>
+    <string name="book_image">Book image</string>
+    <string name="book_details">Book Details</string>
+    <string name="author">Author</string>
+    <string name="description">Description</string>
+    <string name="favorite_icon">favorite_icon\n</string>
+    <string name="favorite">Favorite</string>
+    <string name="buy_link">Buy Link</string>
+    <string name="book_success_favorite">The book has been successfully favorite</string>
+    <string name="book_fail_favorite">Failed to favorite the book</string>
+    <string name="book_success_unfavorite">The book has been successfully unfavorite</string>
+    <string name="book_fail_unfavorite">Failed to unfavorite the book</string>
+    <string name="unexpected_failure">Unexpected failure</string>
+    <string name="ShowFavorites">Show Favorites</string>
+
+</resources>
